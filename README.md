@@ -1,6 +1,13 @@
 
 # 💫 About Me:
-Olá, meu nome é Cleverson, tenho 19 anos, estou cursando Sistemas de Informação na Universidade de São Paulo(USP).
+Olá, meu nome é Cleverson, tenho 19 anos, estou cursando Sistemas de Informação na Universidade de São Paulo(USP). Busco aprender e aplicar meus conhecimentos em projetos desafiadores.
+As principais stacks que uso nos estudos/projetos são:
+- JavaScript
+- TypeScript
+- Node.js
+- ReactJS
+- Next.js
+- PostgreSQL
 
 
 ## 🌐 Socials:
